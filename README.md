@@ -10,6 +10,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/jeer.r)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicaryan0419@gmail.com)
 
+### 📊 Stats
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=jessicaryan19&theme=radical&hide_border=true&include_all_commits=false&count_private=false" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaryan19&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="height: 200px;"/>
+</div>
+
 ### 💻 Stacks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -38,10 +44,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📊 Stats
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=jessicaryan19&theme=radical&hide_border=true&include_all_commits=false&count_private=false" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicaryan19&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact" style="height: 200px;"/>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
